@@ -1,0 +1,9 @@
+
+{
+  "name": "RetroVault 2025",
+  "description": "A comprehensive retro gaming hub featuring 30 classic-inspired games, a 2025 gaming gallery, and an AI-powered 'Learn More' encyclopedia for gaming history.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
